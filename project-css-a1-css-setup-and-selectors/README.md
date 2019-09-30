@@ -1,8 +1,22 @@
 # Project CSS A1 CSS Setup and Selectors
 
 ## Requeirements
-In this project you need to know following topics:
-Inline Styles The <style> Tag Linking the CSS File Tag Name Class Name Multiple Classes ID Name Classes and IDs Specificity Chaining Selectors Nested Elements Chaining and Specificity Important Multiple Selectors Review CSS Selectors
+* Inline Styles
+* The <style> Tag
+* Linking the CSS File
+* Tag Name
+* Class Name
+* Multiple Classes
+* ID Name
+* Classes and IDs
+* Specificity
+* Chaining Selectors
+* Nested Elements
+* Chaining and Specificity
+* Important
+* Multiple Selectors
+* Review CSS Selectors
+  
 If you are not familier with them please read Learn CSS eBook from (https://codingwithbasir.com/learn-html)
 
 ## Project Definition
