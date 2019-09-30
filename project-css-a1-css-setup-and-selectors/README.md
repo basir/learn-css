@@ -18,7 +18,7 @@
 - Multiple Selectors
 - Review CSS Selectors
 
-If you are not familier with them please read Learn CSS eBook from (https://codingwithbasir.com/learn-html)
+If you are not familier with them please read Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
 ## Project Definition
 
