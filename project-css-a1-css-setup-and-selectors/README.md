@@ -95,4 +95,4 @@ Body of Letter
 Closing
 ```
 
-13. Change items colors to red through Chaining and Specificity. Add `li`s inside `list` class should be green.
+13. Change items colors to red through Chaining and Specificity. All `li`s inside `list` class should be green.
