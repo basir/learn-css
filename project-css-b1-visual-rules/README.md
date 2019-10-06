@@ -1,24 +1,20 @@
 # Project CSS B1 Visual Rules
 
-## Requeirements
+To code this project you need to know:
+CSS Structure
+, Font Family
+, Font Size
+, Font Weight
+, Text Align
+, Color
+, Opacity
+, Background Image
 
-- CSS Structure
-- Font Family
-- Font Size
-- Font Weight
-- Text Align
-- Color
-- Opacity
-- Background Image
-- Review Visual Rules
+If you are not familier with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
-If you are not familier with them please read Learn CSS eBook from (https://codingwithbasir.com/learn-css)
+## Project Title: Romantic eMail
 
-## Project Definition
-
-Romantic Love Letter
-
-1. Create a html file with your name like john.html
+1. Create a html file with your name like `john.html`
 2. Add current code to that file:
 
 ```html
@@ -28,7 +24,7 @@ Romantic Love Letter
 </style>
 <html>
   <body>
-    <h1>Romantic Love Letter</h1>
+    <h1>Romantic eMail</h1>
     <p>
       As I am writing this letter, I have thousands of thoughts running through
       my mind. Through this letter I wanted to express my love for you that is

@@ -1,28 +1,25 @@
 # Project CSS A1 CSS Setup and Selectors
 
-## Requeirements
+To code this project you need to know:
 
-- Inline Styles
-- The <style> Tag
-- Linking the CSS File
-- Tag Name
-- Class Name
-- Multiple Classes
-- ID Name
-- Classes and IDs
-- Specificity
-- Chaining Selectors
-- Nested Elements
-- Chaining and Specificity
-- Important
-- Multiple Selectors
-- Review CSS Selectors
+Inline Styles
+, The <style> Tag
+, Linking the CSS File
+, Tag Name
+, Class Name
+, Multiple Classes
+, ID Name
+, Classes and IDs
+, Specificity
+, Chaining Selectors
+, Nested Elements
+, Chaining and Specificity
+, Important
+, Multiple Selectors
 
-If you are not familier with them please read Learn CSS eBook from (https://codingwithbasir.com/learn-css)
+If you are not familier with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
-## Project Definition
-
-Letter Format
+## Project Title : Letter Format
 
 1. Create a folder with your name like `john` inside this folder.
 2. In this newly created folder, create an html file named `letter-format.html`

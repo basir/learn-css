@@ -8,7 +8,7 @@
 
 ## CSS SETUP AND SELECTORS
 
-[Project A1: Manual Tests](project-tdd-javascript-a1-manual-tests)
+[Project A1: Letter Format](project-css-a1-css-setup-and-selectors)
 
 - Inline Styles
 - The <style> Tag
@@ -26,6 +26,8 @@
 - Multiple Selectors
 
 ## CSS VISUAL RULES
+
+[Project B1: Romantic eMail](project-css-b1-visual-rules)
 
 - CSS Structure
 - Font Family
