@@ -40,6 +40,8 @@
 
 ## THE BOX MODEL
 
+[Project C1: Windows](project-css-c1-box-model)
+
 - The Box Model
 - Height and Width
 - Borders
