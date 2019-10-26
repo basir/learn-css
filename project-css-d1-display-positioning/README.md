@@ -1,4 +1,4 @@
-# Project CSS D1 CSS Display and Positioning
+# Project CSS D1 Display and Positioning
 
 To code this project you need to know:
 
@@ -16,7 +16,7 @@ Flow of HTML
 
 If you are not familiar with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
-## Project Title: Puzzle
+## Project Title: Rainbow
 
 1. Create a html file with your name like `john.html`
 2. Add current code to that file:

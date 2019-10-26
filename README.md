@@ -55,13 +55,7 @@
 - Resetting Defaults
 - Visibility
 
-## CHANGING THE BOX MODEL
-
-- Box Model: Content-Box
-- Box Model: Border-Box
-- The New Box Model
-
-## CSS DISPLAY AND POSITIONING
+## DISPLAY AND POSITIONING
 
 - Flow of HTML
 - Position
@@ -75,7 +69,7 @@
 - Float
 - Clear
 
-## CSS COLOR
+## COLOR
 
 - Foreground vs Background
 - Hexadecimal
@@ -84,7 +78,7 @@
 - Hue, Saturation, and Lightness
 - Opacity and Alpha
 
-## CSS TYPOGRAPHY
+## TYPOGRAPHY
 
 - Font Family
 - Font Weight
@@ -100,9 +94,28 @@
 - Linking Fonts
 - Font-Face
 
-## CSS GRID ESSENTIALS
+## FLEXBOX
+
+- Basics
+- How to use Flexbox
+- flex-direction
+- flex-wrap
+- flex-flow
+- justify-content
+- align-items
+- align-content
+- Flexbox Item Properties
+- order
+- flex-grow
+- flex-shrink
+- flex-basis
+- flex
+- align-self
+
+## GRID
 
 - Creating a Grid
+- Basic Grid
 - Creating Columns
 - Creating Rows
 - Grid Template
@@ -115,16 +128,3 @@
 - Grid Row
 - Grid Column
 - Grid Area
-
-## ADVANCED CSS GRID
-
-- Grid Template Areas
-- Overlapping Elements
-- Justify Items
-- Justify Content
-- Align Items
-- Align Content
-- Justify Self and Align Self
-- Implicit vs. Explicit Grid
-- Grid Auto Rows and Grid Auto Columns
-- Grid Auto Flow
