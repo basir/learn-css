@@ -1,6 +1,6 @@
 # Project CSS B1 Visual Rules
 
-To code this project you need to know:
+Topics:
 CSS Structure
 , Font Family
 , Font Size
@@ -9,8 +9,6 @@ CSS Structure
 , Color
 , Opacity
 , Background Image
-
-If you are not familier with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
 ## Project Title: Romantic eMail
 
@@ -56,3 +54,11 @@ If you are not familier with them please download Learn CSS eBook from (https://
 9. change background image of last paragraph to https://www.w3schools.com/css/mountain.jpg
 
 10. In the browser open this html file and select all and copy to clipboard, then compose an email in gmail and past it into body and send it to your love.
+
+## Want to get reviewed?
+
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download

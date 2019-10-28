@@ -1,140 +1,33 @@
 # Learn CSS
 
-1. Download Free eBook: https://codingwithbasir.com/download
-2. Fork and Clone This repository
-3. Code Project A1
-4. Send a Pull Request
-5. Let me know to review your code: [basir.jafaradeh@gmail.com](mailto:basir.jafaradeh@gmail.com)
+1. [Download free eBook](https://codingwithbasir.com/download)
+2. Code following projects
+3. Deliver projects to me ([How To](https://codingwithbasir.com/how-to-deliver-projects/))
+4. I review your code and give you feedback.
+5. Have questions? Email [basir.jafaradeh@gmail.com](mailto:basir.jafaradeh@gmail.com)
 
-## CSS SETUP AND SELECTORS
+## Projects
 
-[Project A1: Letter Format](project-css-a1-setup-and-selectors)
+- [Project A1 Setup and Selectors ](project-css-a1-setup-and-selectors)
 
-- Inline Styles
-- The <style> Tag
-- Linking the CSS File
-- Tag Name
-- Class Name
-- Multiple Classes
-- ID Name
-- Classes and IDs
-- Specificity
-- Chaining Selectors
-- Nested Elements
-- Chaining and Specificity
-- Important
-- Multiple Selectors
+- [Project B1 Visual Rules ](project-css-b1-visual-rules)
 
-## CSS VISUAL RULES
+- [Project C1 Box Model](project-css-c1-box-model)
 
-[Project B1: Romantic eMail](project-css-b1-visual-rules)
+- [Project D1 Display Positioning](project-css-d1-display-positioning)
 
-- CSS Structure
-- Font Family
-- Font Size
-- Font Weight
-- Text Align
-- Color
-- Opacity
-- Background Image
+- [Project E1 Color](project-css-e1-color)
 
-## THE BOX MODEL
+- [Project F1 Typography](project-css-f1-typography)
 
-[Project C1: Windows](project-css-c1-box-model)
+- [Project G1 Flexbox](project-css-g1-flexbox)
 
-- The Box Model
-- Height and Width
-- Borders
-- Border Radius
-- Padding
-- Margins
-- Auto
-- Margin Collapse
-- Minimum and Maximum Height and Width
-- Overflow
-- Resetting Defaults
-- Visibility
+- [Project H2 Grid](project-css-h1-grid)
 
-## DISPLAY AND POSITIONING
+## Want to get reviewed?
 
-[Project D1: Puzzel](project-css-d1-display-positioning)
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
 
-- Flow of HTML
-- Position
-- Position: Relative
-- Position: Absolute
-- Position: Fixed
-- Z-Index
-- Inline Display
-- Block Display
-- Inline-Block Display
-- Float
-- Clear
+## Need help?
 
-## COLOR
-
-[Project E1: Rainbow](project-css-e1-color)
-
-- Foreground vs Background
-- Hexadecimal
-- RGB Colors
-- Hex and RGB
-- Hue, Saturation, and Lightness
-- Opacity and Alpha
-
-## TYPOGRAPHY
-
-[Project F1: Funny Sentences](project-css-f1-typography)
-
-- Font Family
-- Font Weight
-- Font Style
-- Word Spacing
-- Letter Spacing
-- Text Transformation
-- Text Alignment
-- Line Height Anatomy
-- Line Height
-- Serif and Sans Serif
-- Fallback Fonts
-- Linking Fonts
-- Font-Face
-
-## FLEXBOX
-
-[Project G1: Profile Sidebar](project-css-g1-flexbox)
-
-- Basics
-- How to use Flexbox
-- flex-direction
-- flex-wrap
-- flex-flow
-- justify-content
-- align-items
-- align-content
-- Flexbox Item Properties
-- order
-- flex-grow
-- flex-shrink
-- flex-basis
-- flex
-- align-self
-
-## GRID
-
-[Project H1: Website Skeleton](project-css-h1-grid)
-
-- Creating a Grid
-- Basic Grid
-- Creating Columns
-- Creating Rows
-- Grid Template
-- Fraction
-- Repeat
-- minmax
-- Grid Gap
-- Grid Items
-- Multiple Row Items
-- Grid Row
-- Grid Column
-- Grid Area
+Download Learn JavaScript eBook from https://codingwithbasir.com/learn-javascript

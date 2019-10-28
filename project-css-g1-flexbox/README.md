@@ -1,8 +1,6 @@
 # Project CSS G1 Flexbox
 
-To code this project you need to know:
-
-How to use Flexbox ,
+Topics: How to use Flexbox ,
 flex-direction ,
 flex-wrap ,
 flex-flow ,
@@ -16,8 +14,6 @@ flex-shrink ,
 flex-basis ,
 flex ,
 align-self
-
-If you are not familiar with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
 ## Project Title: Profile Sidebar
 
@@ -72,6 +68,10 @@ If you are not familiar with them please download Learn CSS eBook from (https://
 - Roger Medina
 - Dean Sullivan
 
-## How to deliver this project
+## Want to get reviewed?
 
-Check this link: https://codingwithbasir.com/how-to-deliver-projects/
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download

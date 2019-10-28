@@ -1,8 +1,6 @@
 # Project CSS C1 Box Model
 
-To code this project you need to know:
-
-The Box Model
+Topics: The Box Model
 , Height and Width
 , Borders
 , Border Radius
@@ -14,8 +12,6 @@ The Box Model
 , Overflow
 , Resetting Defaults
 , Visibility
-
-If you are not familiar with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
 ## Project Title: Windows
 
@@ -46,16 +42,20 @@ If you are not familiar with them please download Learn CSS eBook from (https://
 
 8. Enter some text into header and set style to have padding 10 and margin 10 and border 10px dotted red.
 
-9. Make another div next to header and name it content. Make it centered   horizontally with 500px width.
+9. Make another div next to header and name it content. Make it centered horizontally with 500px width.
 
 10. Enter some text into content and set border to 20px solid yellow.
 
 11. Change the default margin and padding for all element to 10px.
 
-12. Create an list of 3 items and set left marigns of item 1, item 2 and item 3 item  to 10px, 20px and 30px respectively. Then, add the 4th item and hide it with visibility property.
+12. Create an list of 3 items and set left marigns of item 1, item 2 and item 3 item to 10px, 20px and 30px respectively. Then, add the 4th item and hide it with visibility property.
 
 13. Add a div with footer class at the end of container div and set max-width to 700px. Set margin and padding to 20 px and border to 15px dashed orange.
 
-## How to deliver this project
+## Want to get reviewed?
 
-Check this link: https://codingwithbasir.com/how-to-deliver-projects/
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download

@@ -1,8 +1,6 @@
 # Project CSS E1 Color
 
-To code this project you need to know:
-
-Foreground vs Background
+Topics: Foreground vs Background
 , Hexadecimal
 , RGB Colors
 , Hex and RGB
@@ -42,6 +40,10 @@ If you are not familiar with them please download Learn CSS eBook from (https://
 
 9. Set footer background color ro hlsa format (hue=0 , saturation =50%, lightness =60%, Opacity = 0.5). Set color to #XXXXXX format make set it black and enter `Copyright reserved`.
 
-## How to deliver this project
+## Want to get reviewed?
 
-Check this link: https://codingwithbasir.com/how-to-deliver-projects/
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download

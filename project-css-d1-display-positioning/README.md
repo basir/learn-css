@@ -1,8 +1,6 @@
 # Project CSS D1 Display and Positioning
 
-To code this project you need to know:
-
-Flow of HTML
+Topics: Flow of HTML
 , Position
 , Position: Relative
 , Position: Absolute
@@ -68,6 +66,10 @@ If you are not familiar with them please download Learn CSS eBook from (https://
 - div 2 is float right and 100px and height 200px and bg color green
 - div 3 is clear to right and 100px and height 200px and bg color blue
 
-## How to deliver this project
+## Want to get reviewed?
 
-Check this link: https://codingwithbasir.com/how-to-deliver-projects/
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download

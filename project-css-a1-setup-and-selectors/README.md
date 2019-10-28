@@ -1,8 +1,6 @@
 # Project CSS A1 CSS Setup and Selectors
 
-To code this project you need to know:
-
-Inline Styles
+Topics: Inline Styles
 , The <style> Tag
 , Linking the CSS File
 , Tag Name
@@ -16,8 +14,6 @@ Inline Styles
 , Chaining and Specificity
 , Important
 , Multiple Selectors
-
-If you are not familier with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
 ## Project Title : Letter Format
 
@@ -93,3 +89,11 @@ Closing
 ```
 
 13. Change items colors to red through Chaining and Specificity. All `li`s inside `list` class should be green.
+
+## Want to get reviewed?
+
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download

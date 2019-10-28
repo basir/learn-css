@@ -1,8 +1,6 @@
 # Project CSS F1 Typography
 
-To code this project you need to know:
-
-Font Family
+Topics: Font Family
 , Font Weight
 , Font Style
 , Word Spacing
@@ -15,8 +13,6 @@ Font Family
 , Fallback Fonts
 , Linking Fonts
 Font-Face
-
-If you are not familiar with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
 ## Project Title: Funny Sentences
 
@@ -55,6 +51,10 @@ If you are not familiar with them please download Learn CSS eBook from (https://
 
 12. Link fonts Droid Serif and Playfair Display from Google. Add another p element and set font to `Droid Serif, Playfair Display`. Set content to `My grandmother started walking five miles a day when she was sixty. She’s ninety-seven now, and we don’t know where the hell she is.`.
 
-## How to deliver this project
+## Want to get reviewed?
 
-Check this link: https://codingwithbasir.com/how-to-deliver-projects/
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download

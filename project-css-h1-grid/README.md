@@ -1,6 +1,6 @@
 # Project CSS E1 Grid
 
-To code this project you need to know:
+Topics:
 
 Creating a Grid ,
 Basic Grid ,
@@ -16,8 +16,6 @@ Multiple Row Items ,
 Grid Row ,
 Grid Column ,
 Grid Area
-
-If you are not familiar with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
 ## Project Title: Website Skeleton
 
@@ -49,6 +47,10 @@ If you are not familiar with them please download Learn CSS eBook from (https://
 
 6. Create 10px horizontal gap between sections.
 
-## How to deliver this project
+## Want to get reviewed?
 
-Check this link: https://codingwithbasir.com/how-to-deliver-projects/
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download
