@@ -11,7 +11,7 @@ Foreground vs Background
 
 If you are not familiar with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
-## Project Title: Puzzle
+## Project Title: Rainbow
 
 1. Create a html file with your name like `john.html`
 2. Add current code to that file:

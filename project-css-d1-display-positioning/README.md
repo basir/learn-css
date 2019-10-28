@@ -16,7 +16,7 @@ Flow of HTML
 
 If you are not familiar with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
-## Project Title: Rainbow
+## Project Title: Puzzel
 
 1. Create a html file with your name like `john.html`
 2. Add current code to that file:

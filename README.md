@@ -8,7 +8,7 @@
 
 ## CSS SETUP AND SELECTORS
 
-[Project A1: Letter Format](project-css-a1-css-setup-and-selectors)
+[Project A1: Letter Format](project-css-a1-setup-and-selectors)
 
 - Inline Styles
 - The <style> Tag
@@ -57,6 +57,8 @@
 
 ## DISPLAY AND POSITIONING
 
+[Project D1: Puzzel](project-css-d1-display-positioning)
+
 - Flow of HTML
 - Position
 - Position: Relative
@@ -71,6 +73,8 @@
 
 ## COLOR
 
+[Project E1: Rainbow](project-css-e1-color)
+
 - Foreground vs Background
 - Hexadecimal
 - RGB Colors
@@ -79,6 +83,8 @@
 - Opacity and Alpha
 
 ## TYPOGRAPHY
+
+[Project F1: Funny Sentences](project-css-f1-typography)
 
 - Font Family
 - Font Weight
@@ -95,6 +101,8 @@
 - Font-Face
 
 ## FLEXBOX
+
+[Project G1: Profile Sidebar](project-css-g1-flexbox)
 
 - Basics
 - How to use Flexbox
@@ -113,6 +121,8 @@
 - align-self
 
 ## GRID
+
+[Project H1: Website Skeleton](project-css-h1-grid)
 
 - Creating a Grid
 - Basic Grid
