@@ -1,23 +1,14 @@
 <!DOCTYPE html>
 <style type="text/css">
-	.master {
-		background-color: blue;
-		width: 200px;
-		height: 150px;
-	}
-
-	.child {
-		background-color: red;
-		width: 200px;
-		height: 150px;
-	}
-
+	
 	.free-child {
-		background-color: green;
 		width: 200px;
 		height: 150px;
+		position: relative;
+		top: 200px;
+		left: 400px;
+		background-color: green;
 	}
-
 
 	.strong-child {
 		width: 200px;
@@ -27,74 +18,84 @@
 		left: 800px;
 	}
 
-	.block1 {
-		background-color: orange;
-		margin: 10px;
-		padding: 10px;
-		width: 300px;
-		height: 300px;
+	.child {
+		width: 200px;
+		height: 150px;
+		position: relative;
+		top: 50px;
+		left: 100px;
+		background-color: red;
 	}
 
-	.block2 {
-		background-color: yellow;
-		margin: 10px;
-		padding: 10px;
-		width: 300px;
-		height: 300px;
-	}
-
-	.block3 {
+	.master {
+		width: 200px;
+		height: 150px;
 		background-color: blue;
-		margin: 10px;
-		padding: 10px;
-		width: 300px;
-		height: 300px;
 	}
 
-	.footer1 {
+	.div1 {
+		background-color: orange;
+		padding: 10px;
+		margin: 10px;
+	}
+
+	.div2 {
+		background-color: yellow;
+		padding: 10px;
+		margin: 10px;
+	}
+
+	.div3 {
+		background-color: blue;
+		padding: 10px;
+		margin: 10px;
+	}
+
+	#div1 {
 		width: 100px;
 		height: 200px;
 		background-color: red;
 	}
 
-	.footer2 {
-		position: relative;
-		right: 100px;
+	#div2 {
+		float: right 100px;
+		width: ;
 		height: 200px;
 		background-color: green;
 	}
 
-	.footer3 {
-		position: relative;
-		left: 100px;
+	#div3 {
+		clear: right 100px;
 		height: 200px;
 		background-color: blue;
+
 	}
 
+	
 </style>
 <html>
 <head>
-	<title>PUZZLE</title>
+	<title>OUZZLE</title>
 </head>
 <body>
+
 	<div class="header">
-		<div class="master"></div>
-		<div class="child"></div>
 		<div class="free-child"></div>
 		<div class="strong-child"></div>
+		<div class="child"></div>
+		<div class="master"></div>
 	</div>
 
 	<div class="content">
-		<div class="block1"></div>
-		<div class="block2"></div>
-		<div class="block3"></div>
+		<div class="div1"></div>
+		<div class="div2"></div>
+		<div class="div3"></div>
 	</div>
 
 	<div class="footer">
-		<div class="footer1"></div>
-		<div class="footer2"></div>
-		<div class="footer3"></div>
+		<div id="div1"></div>
+		<div id="div2"></div>
+		<div id="div3"></div>
 	</div>
-
 </body>
 </html>
