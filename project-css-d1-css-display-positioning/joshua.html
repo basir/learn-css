@@ -1,6 +1,22 @@
 <!DOCTYPE html>
 <style type="text/css">
-	
+
+	.master {
+		width: 200px;
+		height: 150px;
+		background-color: blue;
+	}
+
+	.child {
+		width: 200px;
+		height: 150px;
+		position: relative;
+		top: 50px;
+		left: 100px;
+		background-color: red;
+	}
+
+
 	.free-child {
 		width: 200px;
 		height: 150px;
@@ -18,53 +34,38 @@
 		left: 800px;
 	}
 
-	.child {
-		width: 200px;
-		height: 150px;
-		position: relative;
-		top: 50px;
-		left: 100px;
-		background-color: red;
-	}
-
-	.master {
-		width: 200px;
-		height: 150px;
-		background-color: blue;
-	}
-
-	.div1 {
+	.block1 {
 		background-color: orange;
 		padding: 10px;
 		margin: 10px;
 	}
 
-	.div2 {
+	.block2 {
 		background-color: yellow;
 		padding: 10px;
 		margin: 10px;
 	}
 
-	.div3 {
+	.block3 {
 		background-color: blue;
 		padding: 10px;
 		margin: 10px;
 	}
 
-	#div1 {
+	.footer1 {
 		width: 100px;
 		height: 200px;
 		background-color: red;
 	}
 
-	#div2 {
+	.footer2 {
 		float: right 100px;
 		width: ;
 		height: 200px;
 		background-color: green;
 	}
 
-	#div3 {
+	.footer3 {
 		clear: right 100px;
 		height: 200px;
 		background-color: blue;
@@ -75,7 +76,7 @@
 </style>
 <html>
 <head>
-	<title>OUZZLE</title>
+	<title>PUZZLE</title>
 </head>
 <body>
 
@@ -87,15 +88,15 @@
 	</div>
 
 	<div class="content">
-		<div class="div1"></div>
-		<div class="div2"></div>
-		<div class="div3"></div>
+		<div class="block1"></div>
+		<div class="block2k"></div>
+		<div class="block3"></div>
 	</div>
 
 	<div class="footer">
-		<div id="div1"></div>
-		<div id="div2"></div>
-		<div id="div3"></div>
+		<div class="footer1"></div>
+		<div class="footer2"></div>
+		<div class="footer3"></div>
 	</div>
 </body>
 </html>
