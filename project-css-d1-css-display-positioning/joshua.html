@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<style type="text/css">
+
+	.master {
+		width: 200px;
+		height: 150px;
+		background-color: blue;
+	}
+
+	.child {
+		width: 200px;
+		height: 150px;
+		position: relative;
+		top: 50px;
+		left: 100px;
+		background-color: red;
+	}
+
+
+	.free-child {
+		width: 200px;
+		height: 150px;
+		position: relative;
+		top: 200px;
+		left: 400px;
+		background-color: green;
+	}
+
+	.strong-child {
+		width: 200px;
+		height: 150px;
+		position: fixed;
+		top: 500px;
+		left: 800px;
+	}
+
+	.block1 {
+		background-color: orange;
+		padding: 10px;
+		margin: 10px;
+	}
+
+	.block2 {
+		background-color: yellow;
+		padding: 10px;
+		margin: 10px;
+	}
+
+	.block3 {
+		background-color: blue;
+		padding: 10px;
+		margin: 10px;
+	}
+
+	.footer1 {
+		width: 100px;
+		height: 200px;
+		background-color: red;
+	}
+
+	.footer2 {
+		float: right 100px;
+		width: ;
+		height: 200px;
+		background-color: green;
+	}
+
+	.footer3 {
+		clear: right 100px;
+		height: 200px;
+		background-color: blue;
+
+	}
+
+	
+</style>
+<html>
+<head>
+	<title>PUZZLE</title>
+</head>
+<body>
+
+	<div class="header">
+		<div class="free-child"></div>
+		<div class="strong-child"></div>
+		<div class="child"></div>
+		<div class="master"></div>
+	</div>
+
+	<div class="content">
+		<div class="block1"></div>
+		<div class="block2k"></div>
+		<div class="block3"></div>
+	</div>
+
+	<div class="footer">
+		<div class="footer1"></div>
+		<div class="footer2"></div>
+		<div class="footer3"></div>
+	</div>
+</body>
+</html>
