@@ -1,6 +1,8 @@
-# Project CSS D1 Display and Positioning
+# Project CSS D1 CSS Display and Positioning
 
-Topics: Flow of HTML
+To code this project you need to know:
+
+Flow of HTML
 , Position
 , Position: Relative
 , Position: Absolute
@@ -14,7 +16,7 @@ Topics: Flow of HTML
 
 If you are not familiar with them please download Learn CSS eBook from (https://codingwithbasir.com/learn-css)
 
-## Project Title: Puzzel
+## Project Title: Puzzle
 
 1. Create a html file with your name like `john.html`
 2. Add current code to that file:
@@ -33,19 +35,19 @@ If you are not familiar with them please download Learn CSS eBook from (https://
 
 3. Create 2 divs and set their class to master and child.
 
-4. Set child position to relative, top to 50px and left 100px.
+4. Set child position to relative and left 400px.
 
 5. Change master background color to blue and child background color to red.
 
-6. Create another div with class free-child right afeter child and set the position to absolute. set top and left to 200px and 400px.
+6. Create another div with class free-child right after child and set the position to absolute. set top and left to 50px and 150px. Change free-child background color to green.
 
-7. Change free-child background color to green.
+8. Create div with class strong-child and keep it fixed in top: 200px and left 250px. It should not move by scrolling. Change free-child background color to gary. 
+   
+9.  Set witdh and height of all above divs to 200px and 150px.
 
-8. Set witdh and height of all above divs to 200px and 150px.
 
-9. Create div with class strong-child and keep it fixed in top: 500px and left 800px. It should not move by scrolling.
-
-10. Bring free-child div to top of all other div, then strong-child, child and then master.
+10. Send free-child behind of master and strong-child.
+    Note: use z-index
 
 11. Wrap all above in a div with class=header
 
@@ -53,23 +55,22 @@ If you are not familiar with them please download Learn CSS eBook from (https://
 
 13. Inside content div create 3 divs as inline-block for display attributes:
 
-- First div set the bg color orange.
-- Second div set the bg color to yellow.
-- Thrid div set the bg color to blue.
-- Set their padding and margin to 10 px and set with and height to 300px.
+- First div, block1 set the bg color orange.
+- Second div, block1 set the bg color to yellow.
+- Thrid div, block1 set the bg color to blue.
+- Set their padding to 10px and set width and height to 100px.
 
-14. Create another div next to content and set class to footer.
+1.  Create another div next to content and set class to footer.
 
-15. Inside footer div create 3 divs like this:
+2.  Inside footer div create 3 divs like this:
 
-- div 1 is width 100px and height 200px anf bg colot red
-- div 2 is float right and 100px and height 200px and bg color green
-- div 3 is clear to right and 100px and height 200px and bg color blue
+- div 1 is width 100px and height 200px and bg color red
+- div 2 is float right and width 100px and height 200px and bg color green
+- div 3 is clear to right and width 100px and height 200px and bg color blue
 
-## Want to get reviewed?
+16. Set content of each divs with their class names and all divs to text center by adding a selectror for div to style section.
 
-Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
 
-## Need help?
+## How to deliver this project
 
-Download Free eBook https://codingwithbasir.com/download
+Check this link: https://codingwithbasir.com/how-to-deliver-projects/
