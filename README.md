@@ -22,7 +22,11 @@
 
 - [Project G1 Flexbox](project-css-g1-flexbox)
 
-- [Project H2 Grid](project-css-h1-grid)
+- [Project H1 Grid](project-css-h1-grid)
+
+- [Project I1 Bootstrap Grid](project-css-i1-bootstrap-grid)
+
+- [Project J1 Bootstrap Utilites and Components](project-css-j1-bootstrap-utilities-components)
 
 ## Want to get reviewed?
 
