@@ -33,43 +33,38 @@ If you are not familiar with them please download Learn CSS eBook from (https://
 </html>
 ```
 
-3. Create 2 divs and set their class to master and child.
+3. Create a div and set class to header
 
-4. Set child position to relative and left 400px.
+4. For next 4 divs set their width and height to 200px and 150px respectively in their classes.
 
-5. Change master background color to blue and child background color to red.
+5. Create a div inside header and set class to static-child. Set this class style background color blue.
 
-6. Create another div with class free-child right after child and set the position to absolute. set top and left to 50px and 150px. Change free-child background color to green.
+6. Create a div next to static-child and set class to relative-child. Set this class style position to relative, background color red and left 400.
 
-8. Create div with class strong-child and keep it fixed in top: 100px and left 250px. It should not move by scrolling. Change free-child background color to gary. 
-   
-9.  Set witdh and height of all above divs to 200px and 150px.
+7. Create a div next to relative-child and set class to absolute-child. Set this class style position to absolute, background color to green, top 50px, left 150px.
 
+8. Create a div next to absolute-child and set class to fixed-child. Set this class style position to fixed, background color to yellow, top 100px, left 250px.
 
-10. Send free-child behind of master and strong-child divs.
-    Note: use z-index
+9. Send absolute-child behind of static-child and strong-child divs. Note: use z-index.
 
-11. Wrap all above in a div with class header
+10. Create another div next to header and set class to content
 
-12. Create another div next to header and set class to content
+11. Inside content div create 3 divs as inline-block with these classes:
 
-13. Inside content div create 3 divs as inline-block for display attributes:
+- block1, set backgroudn color orange.
+- block2, set backgroudn color to yellow.
+- block3, set backgroudn color to blue.
+- For all above classes, set their padding to 10px and width and height to 100px.
 
-- First div, block1 set the bg color orange.
-- Second div, block2 set the bg color to yellow.
-- Thrid div, block3 set the bg color to blue.
-- Set their padding to 10px and set width and height to 100px.
+12. Create another div next to content and set class to footer.
 
-1.  Create another div next to content and set class to footer.
+13. Inside footer div create 3 divs with these classes:
 
-2.  Inside footer div create 3 divs like this:
+- footer1, set width 100px and height 200px and backgroudn color red
+- footer2, set float right and width 100px and height 200px and backgroudn color green
+- footer3, set clear to right and width 100px and height 200px and backgroudn color blue
 
-- First div, footer1 is width 100px and height 200px and bg color red
-- Second div, footer2 is float right and width 100px and height 200px and bg color green
-- Thrid div, footer3, is clear to right and width 100px and height 200px and bg color blue
-
-16. Set content of each divs with their class names and all divs to text center by adding a selectror for div to style section.
-
+18. Content of divs should be name of their classes. Also set text align of div to center.
 
 ## How to deliver this project
 
