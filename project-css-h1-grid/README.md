@@ -34,18 +34,18 @@ Grid Area
 </html>
 ```
 
-3. Create a div and set display to grid.
+3. Set all divs style to border-radius 10px and padding 10px
 
-4. Add 4 divs to it with these classes:
+4. Create a div and set class to container. Set display to grid.
 
-- header: It wraps all width and has 100px height. background-color: gary
-- sidebar: It is under header and covers 25% of width of the screen. background-color: yello
-- main: It is under header and next to sidebar and covers 75% of width of the screen. background-color: green
-- footer: It wraps all width and has 50px height. background-color: blue
+5. Add 4 divs inside container with following classes:
 
-5. Add lorem ipsum text to all section.
+- header: It wraps all width and background-color is gary. Content is Header.
+- sidebar: It is under header and covers 25% of width of the screen. background-color is yellow. Content is Sidebar
+- main: It is under header and next to sidebar and covers 75% of width of the screen. background-color is green. Content is Main
+- footer: It wraps all width. background-color is blue. Content is Footer
 
-6. Create 10px horizontal gap between sections.
+2. Create 10px gap between sections.
 
 ## Want to get reviewed?
 
