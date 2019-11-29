@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Puzzle</title>
+    <style type="text/css">
+        .header_wh{
+            width: 200px;
+            height: 200px;
+            }
+        .static-child{
+            background-color: blue;
+        }
+        .relative-child{
+            position: relative;
+            background-color: red;
+            left: 400px;
+            }
+        .absolute-child{
+            position: absolute;
+            background-color: green;
+            left: 150px;
+            top: 50px;
+            z-index:-1;
+            }
+        .fixed-child{
+            position: fixed;
+            background-color: yellow;
+            left: 250px;
+            top: 100px;
+            }
+        .content_wh{
+            padding: 10px;
+            width:100px;
+            height:100px;
+            display: inline-block;
+            }
+        .block1{
+            background-color:orange;
+            }
+        .block2{
+            background-color:yellow;
+            }
+        .block3{
+            background-color:blue;
+            }
+        .footer_wh{
+            width: 100px;
+            height: 200px;
+            }
+        .footer1{
+            background-color:red;
+            }
+        .footer2{
+            background-color:green;
+            float:right;
+            }
+        .footer3{
+            background-color:blue;
+            clear: right;
+            }
+        div{
+            text-align: center;
+            }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="static-child header_wh">
+            Static Child
+        </div>
+        <div class="relative-child header_wh">
+            Relative Child
+        </div>
+        <div class="absolute-child header_wh">
+            Absolute Child
+        </div>
+        <div class="fixed-child header_wh">
+            Fixed Child
+        </div>
+    </div>
+    <div class="content">
+        <div class="block1 content_wh">Block1</div>
+        <div class="block2 content_wh">Block2</div>
+        <div class="block3 content_wh">Block3</div>
+    </div>
+    <div class="footer">
+        <div class="footer1 footer_wh">Footer1</div>
+        <div class="footer2 footer_wh">Footer2</div>
+        <div class="footer3 footer_wh">Footer3</div>
+    </div>
+
+</body>
+</html>
